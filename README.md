@@ -1,13 +1,4 @@
-# drag-drop-website-builder
 
-![](https://travis-ci.com/nandiniproothi/drag-drop-website-builder.svg?token=V3cCrzJNiEzij5CNxMec&branch=main) 
-![](https://img.shields.io/website?url=https%3A%2F%2Fenthusiastic-quiet-jonquil.glitch.me)
-
-Mini Project for ITT Lab, MIT, Manipal
-
-##### This project is live 👉 [here](https://enthusiastic-quiet-jonquil.glitch.me) 👈 <br>
-##### ✨ [Remix](https://glitch.com/edit/#!/enthusiastic-quiet-jonquil) ✨ this project on [glitch.com](www.glitch.com) <br>
-##### The abstract is available 👉 [here](https://cdn.glitch.com/5328350f-d2c9-47dd-bd13-150714777736%2Fitt-abstract.png?v=1615203682918) 👈 <br>
 
 ### Problem Statement:
 
