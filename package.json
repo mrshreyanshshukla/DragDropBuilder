@@ -1,0 +1,31 @@
+{
+  "name": "drag-drop-website-builder",
+  "version": "1.0.0",
+  "description": "![](https://travis-ci.com/nandiniproothi/drag-drop-website-builder.svg?token=V3cCrzJNiEzij5CNxMec&branch=main)  ![](https://img.shields.io/website?url=https%3A%2F%2Fenthusiastic-quiet-jonquil.glitch.me)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandiniproothi/drag-drop-website-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandiniproothi/drag-drop-website-builder/issues"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "homepage": "https://github.com/nandiniproothi/drag-drop-website-builder#readme",
+  "dependencies": {
+    "html-generator-npm": "^1.0.2",
+    "node-emoji": "^1.10.0",
+    "redis": "^3.1.1",
+    "server": "^1.0.32",
+    "websocket": "^1.0.34",
+    "xmlhttprequest-ssl": "^1.6.2"
+  }
+}

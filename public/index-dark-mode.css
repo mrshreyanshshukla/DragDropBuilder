@@ -1,0 +1,57 @@
+body {
+  background-color: #212121;
+}
+nav {
+  background-color: #cdedf6;
+  opacity: 90%;
+}
+h5{
+  color: #cdedf6;
+}
+.nav-link {
+  color: #011627;
+}
+.nav-link:hover {
+  color: #087e8b;
+}
+.navbar-brand {
+  color: #011627;
+}
+.navbar-brand:hover {
+  color: #087e8b;
+}
+.textSelect {
+  font-size: 15px;
+}
+.dragster{
+  float: left;
+  width: 100%;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
+}
+.row {
+  padding: 10px;
+}
+p {
+  padding-left: 10px;
+  color: #cdedf6;
+}
+.col-sm-6 {
+  padding: 10px;
+}
+.card {
+  background-color: transparent;
+  color: white;
+  border: solid 0.5px white;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #cdedf6;
+  text-align: center;
+  color: #303030;
+}
